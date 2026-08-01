@@ -39,3 +39,15 @@ We are proud of the work our members have done to grow a safe, creative drone co
 
 Whether you want to fly, film, build, code, or simply learn how drones work, there is a place for you in the Aerial Drone Club. Join us to take your ideas higher.
 
+## Website Development
+
+The GitHub Pages site is a dependency-free, single-page website. Open
+`index.html` in a browser to preview it locally. Before publishing, replace
+`REPLACE-WITH-CLUB-EMAIL` in `index.html` with the club or faculty advisor email
+address.
+
+To publish, enable GitHub Pages in the repository settings and select the
+`main` branch with the repository root (`/`) as the source. GitHub's standard
+project-pages URL for this repository is:
+
+`https://andrew53627-dev.github.io/andrew53627.github.io/`
